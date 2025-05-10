@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj Kaleru</h1>
-<h3 align="center">🌩️ A Passionate Cloud & DevOps Enthusiast from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvarajkaleru&label=Profile%20views&color=0e75b6&style=flat" alt="yuvarajkaleru" />
-</p>
+<h3 align="center">🌩️ A Passionate Cloud & DevOps Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -12,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Cloud+Native+Explorer+%E2%98%81%EF%B8%8F;DevOps+Learner+%F0%9F%92%BB;Linux+Tinkerer+%F0%9F%90%BB;Chess+Player+%E2%99%9C;Open+Source+Supporter+%F0%9F%91%8D"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Cloud+Native+Explorer+%E2%98%81%EF%B8%8F;DevOps+Learner+%F0%9F%92%BB;Chess+Player+%E2%99%9C;Open+Source+Supporter+%F0%9F%91%8D"/>
 </p>
 
 ---
