@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Cloud+Native+Explorer+%E2%98%81%EF%B8%8F;DevOps+Learner+%F0%9F%92%BB;Linux+Tinkerer+%F0%9F%90%BB;Chess+Player+%E2%99%9C;Open+Source+Supporter+%F0%9F%91%8D"/>
+</p>
+
 ---
 
 - 🌱 I’m currently learning **AWS and DevOps tools**
@@ -18,7 +22,24 @@
 - 🤝 I’m looking for help with **Kubernetes, CI/CD, and Infrastructure as Code**
 - 💬 Ask me about **Cloud, Linux, and Python scripting**
 - 📫 How to reach me: **yuvarajvanjari1@gmail.com**
-- ⚡ Fun fact: **🚴‍♂️ When not coding, you might find me gaming or exploring tech blogs**
+- ⚡ Fun fact: **When not coding, you might find me Gaming or exploring tech blogs**
+
+---
+
+<h3 align="center">🎓 Involvement:</h3>
+<p align="center">
+  👨‍💻 Currently serving as <strong>GitHub Club Inclusion Officer</strong> at <strong>Gitam University</strong><br/>
+  🔗 Fostering diversity and inclusion in open-source collaboration and technical events
+</p>
+
+---
+
+<h3 align="center">🏅 Extracurricular Highlights:</h3>
+<ul>
+  <li>🥈 District Runner-Up in 100m Sprint at Golconda Athletics Meet</li>
+  <li>🚴‍♂️ Passionate about long-distance cycling and fitness challenges</li>
+  <li>♟️ School Chess Champion — always thinking 3 moves ahead!</li>
+</ul>
 
 ---
 
@@ -39,7 +60,7 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,linux,aws,bash,git,c,oracle" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,ubuntu,aws,bash,git,c,oracle" />
 </p>
 
 ---
@@ -53,12 +74,12 @@
 
 ---
 
-<h3 align="center">🎉 Fun Facts:</h3>
+<h3 align="center">🎉 Little Things About Me:</h3>
 <ul>
-  <li>💻 I enjoy turning caffeine into code ☕➡️💻</li>
-  <li>🐧 I once broke my Linux system just to learn how to fix it</li>
-  <li>🎧 I code better with lo-fi music in the background</li>
-  <li>🎮 Love gaming, but I rage quit politely 😅</li>
+  <li>📟 I enjoy experimenting with Linux and fixing what I break!</li>
+  <li>🧠 Python is my go-to tool for automating boring stuff</li>
+  <li>🎧 Lo-fi beats power my late-night problem solving</li>
+  <li>🛠️ Constantly digging up underrated CLI tools and terminal hacks</li>
 </ul>
 
 ---
