@@ -48,7 +48,7 @@
   <a href="https://twitter.com/yuvaraj_codes" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/yuvarajkaleru" target="_blank">
+  <a href="https://linkedin.com/in/Yuvaraj kaleru" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/yuvarajkaleru" target="_blank">
