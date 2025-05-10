@@ -22,7 +22,8 @@
 - 🤝 I’m looking for help with **Kubernetes, CI/CD, and Infrastructure as Code**
 - 💬 Ask me about **Cloud, Linux, and Python scripting**
 - 📫 How to reach me: **yuvarajvanjari1@gmail.com**
-- ⚡ Fun fact: **When not coding, you might find me Gaming or exploring tech blogs**
+- 🔗 Connect on LinkedIn: [Yuvaraj Kaleru](https://www.linkedin.com/in/yuvaraj-kaleru-507a2b296)
+- ⚡ Fun fact: **I once beat my chess coach — still undefeated since!**
 
 ---
 
@@ -48,7 +49,7 @@
   <a href="https://twitter.com/yuvaraj_codes" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/Yuvaraj kaleru" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvaraj-kaleru-507a2b296" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/yuvarajkaleru" target="_blank">
