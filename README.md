@@ -21,9 +21,7 @@
 - 👯 I’m looking to collaborate on **Cloud-native projects**
 - 🤝 I’m looking for help with **Kubernetes, CI/CD, and Infrastructure as Code**
 - 💬 Ask me about **Cloud, Linux, and Python scripting**
-- 📫 How to reach me: **yuvarajvanjari1@gmail.com**
-- 🔗 Connect on LinkedIn: [Yuvaraj Kaleru](https://www.linkedin.com/in/yuvaraj-kaleru-507a2b296)
-- ⚡ Fun fact: **I once beat my chess coach — still undefeated since!**
+- ⚡ Fun fact: **Linux crashes make great teachers, and I’ve met many!**
 
 ---
 
@@ -49,11 +47,14 @@
   <a href="https://twitter.com/yuvaraj_codes" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/yuvaraj-kaleru-507a2b296" target="_blank">
+  <a href="https://linkedin.com/in/yuvarajkaleru" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/yuvarajkaleru" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="mailto:yuvarajvanjari1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
 </p>
 
