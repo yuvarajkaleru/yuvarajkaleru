@@ -65,10 +65,10 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvarajkaleru&show_icons=true&theme=radical&locale=en" alt="yuvarajkaleru-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvarajkaleru&show_icons=true&locale=en&layout=compact&theme=radical" alt="yuvarajkaleru-langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajkaleru&theme=radical" alt="yuvarajkaleru-streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajkaleru&theme=radical" />
+
 </div>
+
 
 ---
 
